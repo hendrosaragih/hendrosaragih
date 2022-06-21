@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data and Technology
 - 🌱 I’m currently learning Data, Visualization and Machine Learning
 - 💞️ I’m looking to collaborate on Digital Company
-- 📫 EMailing hendrosaragih@gmail.com
+- 📫 Emailing hendrosaragih@gmail.com
 
 <!---
 hendrosaragih/hendrosaragih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
